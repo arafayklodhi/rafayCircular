@@ -1,0 +1,34 @@
+{
+  "name": "rafayCircular",
+  "version": "0.5.1",
+  "description": "Customizable circular action menu component for React Native",
+  "main": "ActionButton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/rafayCircular.git"
+  },
+  "keywords": [
+    "react-native",
+    "action-button",
+    "float-button",
+    "multi-action-button",
+    "circular-menu",
+    "arc-menu",
+    "satellite-menu"
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.11"
+  },
+  "author": "Rafay Lodhi",
+  "license": "RST",
+  "bugs": {
+    "url": "https://github.com/your-username/rafayCircular/issues"
+  },
+  "homepage": "https://github.com/your-username/rafayCircular",
+  "dependencies": {
+    "prop-types": "^15.6.1"
+  }
+}
