@@ -1,5 +1,5 @@
 {
-  "name": "rafayCircular",
+  "name": "@rafaykhan659/rafaycircular",
   "version": "0.5.1",
   "description": "Customizable circular action menu component for React Native",
   "main": "ActionButton.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/rafayCircular.git"
+    "url": "https://github.com/arafayklodhi/rafaycircular.git"
   },
   "keywords": [
     "react-native",
@@ -23,11 +23,11 @@
     "react-native": ">=0.11"
   },
   "author": "Rafay Lodhi",
-  "license": "RST",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/your-username/rafayCircular/issues"
+    "url": "https://github.com/your-arafayklodhi/rafaycircular/issues"
   },
-  "homepage": "https://github.com/your-username/rafayCircular",
+  "homepage": "https://github.com/arafayklodhi/rafaycircular",
   "dependencies": {
     "prop-types": "^15.6.1"
   }
